@@ -1,0 +1,12 @@
+node_modules/
+
+# Environment variable files — contain secret API keys, NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# .env.example is safe to commit (contains no real keys)
+!.env.example
+
+# Firebase local files
+.firebase/

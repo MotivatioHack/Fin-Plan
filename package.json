@@ -1,0 +1,26 @@
+{
+  "name": "fin-plan",
+  "version": "1.0.0",
+  "description": "personal finance manager",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maliklabina/Fin-Plan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/maliklabina/Fin-Plan/issues"
+  },
+  "homepage": "https://github.com/maliklabina/Fin-Plan#readme",
+  "dependencies": {
+    "dotenv": "^18.0.6",
+    "firebase": "^13.0.0"
+  }
+}
